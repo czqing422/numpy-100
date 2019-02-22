@@ -111,6 +111,9 @@ Zmin, Zmax = Z.min(), Z.max()
 print(Zmin, Zmax)
 ```
 
+#### 13.1 找到最大值的位置
+  np.argmax得到1维位置
+
 #### 14. Create a random vector of size 30 and find the mean value (★☆☆)
 
 
