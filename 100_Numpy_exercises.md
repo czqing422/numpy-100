@@ -270,6 +270,9 @@ Z = np.random.uniform(-10,+10,10)
 print (np.copysign(np.ceil(np.abs(Z)), Z))
 ```
 
+astype(int)  :  向零取整
+floor  :  下取整
+
 #### 30. How to find common values between two arrays? (★☆☆)
 
 
